@@ -1,0 +1,4 @@
+{% block content %}
+    <title>create</title>
+    <h1>create page</h1>
+{% endblock content %}

@@ -1,0 +1,5 @@
+[default]
+template_dir = "templates"
+
+[dependencies]
+rocket = "=0.5.0-rc.3"

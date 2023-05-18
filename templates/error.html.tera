@@ -1,0 +1,4 @@
+{% block content %}
+    <title>Error Page</title>
+    <h1>Error Page</h1>
+{% endblock content %}

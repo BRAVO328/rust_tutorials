@@ -1,0 +1,4 @@
+{% block content %}
+    <title>update</title>
+    <h1>update page</h1>
+{% endblock content %}

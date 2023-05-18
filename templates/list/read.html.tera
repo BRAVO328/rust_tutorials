@@ -1,0 +1,4 @@
+{% block content %}
+    <title>read</title>
+    <h1>read page</h1>
+{% endblock content %}

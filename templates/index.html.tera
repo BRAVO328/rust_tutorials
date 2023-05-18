@@ -1,0 +1,9 @@
+{% block content %}
+  <title>Homepage</title>
+  <h1>Homepage</h1>
+  <a href="http://127.0.0.1:8000/list">Go to list page</a>
+  <a href="http://127.0.0.1:8000/list/create">Go to create page</a>
+  <a href="http://127.0.0.1:8000/list/read">Go to read page</a>
+  <a href="http://127.0.0.1:8000/list/update">Go to update page</a>
+  <a href="http://127.0.0.1:8000/list/delete">Go to delete page</a>
+{% endblock content %}
